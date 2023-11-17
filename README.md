@@ -1,2 +1,2 @@
 # Ola Mundo
- primeiro reposiorio do curso do git guanabara
+ Meu Primeiro repositório do curso do git prof. Guanabara
